@@ -1,0 +1,8 @@
+train: /content/yolov8/data/train.txt  
+val: /content/yolov8/data/val.txt  
+
+names:
+  0: guard
+  1: two_rider
+  2: one_rider
+
